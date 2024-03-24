@@ -51,7 +51,7 @@ In summary, sulforaphane is a potent bioactive compound with multiple health-pro
 
 
 
-## Model Response - Raw Text
+## Model Response - Raw Text (Anthropic Claude 3 Opus - 2024-02-29)
 
 Sulforaphane (SFN) is an isothiocyanate compound derived from glucoraphanin, a glucosinolate found in high concentrations in broccoli and other cruciferous vegetables. When the plant tissue is damaged, glucoraphanin is hydrolyzed by the enzyme myrosinase to form SFN. In the human body, SFN exhibits several important biological activities:
 
